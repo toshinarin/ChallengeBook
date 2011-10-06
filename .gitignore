@@ -1,1 +1,9 @@
+# binary files
 *.class
+
+# eclipse files
+.project
+.classpath
+
+# an output file by solver class
+out.txt
